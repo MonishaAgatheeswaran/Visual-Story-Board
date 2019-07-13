@@ -1,0 +1,12 @@
+Classroom 
+boy	Hi Elle! What is your plan after class?
+girl	Hi John! I want to go to the park.
+Park 
+boy_listening	Why are u sad even after coming to the park?
+girl_sitting	I always wanted to fly.... but i couldn't.
+Sky 
+boy_flying	Are u happy now?
+girl_flying	Yes! I am.
+Park 
+boy	Life is simple.We can achieve what we want if we take the right decision
+girl	Yeah! You are right

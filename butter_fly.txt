@@ -1,0 +1,6 @@
+Sky 
+crow_narrating	Hey i feel thirsty.
+crow_talking	You can find water near by!
+Sky 
+crow_narrating	Can we have a look at it
+crow	Oh!sure

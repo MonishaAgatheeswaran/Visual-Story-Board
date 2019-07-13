@@ -1,0 +1,39 @@
+Intro
+conclusion
+Archi
+algo
+Implementation
+Innovation and creativity
+
+
+Report
+1)Intro
+* Domain:   problem
+Challenges and issues
+Problem statement
+
+2)Objective: What makes
+Propose system
+Organisattion
+3)Literature survey
+	table,author name has done research on this...method algo  Citation
+system des
+	Architecture(layer or sequence) of proposed sys,model desc.,input,output,algorithm
+4)Implemention:sudocode,algo,data changes,res ss , Analyse result:perpormance formula
+5)Conclusion
+Futher betterments.
+
+Refer:
+Alphabetical author.....,,and,"titlt",in the proceed of conference,volume number,year
+Facluty of ist
+Banafid:name roll number guide,place date.
+Ack: 2-3 para panel,guide,friends and relatives
+last la nname
+Abstract 2 para: 1 issue
+2 problem
+
+ithuvaraiku roman number
+Figure name,sign 
+Tble name
+
+no i we

@@ -1,0 +1,65 @@
+----------------------STORY BOARD CREATION----------------------
+
+
+To run the application create a chat text file.
+Each scene can be described in 3 lines.
+It should follow the following format.
+First line: Background image for the scene.
+Second line: Should consist of the first charactere and its dialogue separated by a '\t'.
+Third line: Should consist of the first charactere and its dialogue separated by a '\t'.
+A script can have maximum of 6 scenes.
+
+
+List of background images:
+Forest
+Home
+City
+Classroom
+Park
+Sky
+Hospital
+School
+Farm
+Street
+Beach
+Blast
+Pattern
+
+
+List of characters:
+Animals:
+	rabbit(dancing,eatting,running,sleeping,talking)
+	tortoise(running,talking)
+	elephant
+	tiger
+	lion
+	dog
+	fox
+	cat
+	monkey
+	snake
+	sheep
+	giraffe
+	puppy
+Human characters:
+	boy
+	girl
+	mom
+	dad
+	friend
+	teaacher
+	doctor
+	police
+	
+Birds:
+	peacock
+	parrot
+	crow
+	hen
+	cock
+	butterfly
+
+Run the python file comic.py with the chat file with command
+python comic.py -f chat.txt
+
+	
